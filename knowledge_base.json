@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "question": "What is your name",
+      "answer": "i'm ash "
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "What is DBMS",
+      "answer": "DBMS stands for Database Management System. It is software that enables users to create, manage, and manipulate databases. A database is an organized collection of data, typically stored and accessed electronically. DBMS provides an interface for interacting with databases, allowing users to store, retrieve, update, and delete data efficiently and securely."
+    },
+    {
+      "question": "",
+      "answer": "ok?"
+    },
+    {
+      "question": "What is Java?",
+      "answer": "Java is a high-level, object-oriented programming language known for its platform independence, which means that Java programs can run on different operating systems without recompilation."
+    },
+    {
+      "question": "What are the main features of Java?",
+      "answer": "The main features of Java include platform independence, object-orientation, automatic memory management (garbage collection), strong type checking, exception handling, and built-in support for multi-threading."
+    },
+    {
+      "question": "What is a class in Java?",
+      "answer": "A class in Java is a blueprint or template that defines the characteristics and behavior of objects. It contains variables (attributes) and methods (functions) that define the data and actions associated with the objects."
+    },
+    {
+      "question": "What is the difference between an object and a class?",
+      "answer": "A class is a blueprint or template that defines the properties and methods of objects, while an object is an instance of a class. In other words, a class is a general concept, and an object is a specific realization of that concept."
+    },
+    {
+      "question": "What is the purpose of the 'public static void main(String[] args)' method in Java?",
+      "answer": "The 'public static void main(String[] args)' method is the entry point for Java applications. It is the method that is called when the program starts, and it serves as the starting point for the execution of the program."
+    },
+    {
+      "question": "What is a variable in Java?",
+      "answer": "A variable in Java is a named storage location that holds a value. It is used to store data that can be manipulated and used within a program."
+    },
+    {
+      "question": "What is the difference between '==' and '.equals()' in Java?",
+      "answer": "The '==' operator in Java is used to compare the equality of two objects' references, while the '.equals()' method is used to compare the equality of the contents (values) of two objects."
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in Java?",
+      "answer": "The 'this' keyword in Java is a reference to the current object. It is used to differentiate between instance variables and parameters with the same name, or to call other constructors within a class."
+    },
+    {
+      "question": "What is the use of the 'final' keyword in Java?",
+      "answer": "The 'final' keyword in Java is used to declare constants, make variables unchangeable, prevent method overriding, and make classes not inheritable."
+    },
+    {
+      "question": "What is an exception in Java?",
+      "answer": "An exception in Java is an event that occurs during the execution of a program that disrupts the normal flow of instructions. It is a way to handle and recover from errors or exceptional situations."
+    },
+    {
+      "question": "What is a Database Management System (DBMS)?",
+      "answer": "A Database Management System (DBMS) is software that manages and organizes databases. It provides an interface to interact with the database, handles data storage, retrieval, and manipulation, and ensures data integrity and security."
+    },
+    {
+      "question": "What is a relational database?",
+      "answer": "A relational database is a type of database that organizes data into tables with rows and columns, where relationships between tables are established using keys. It supports structured query language (SQL) for data manipulation and retrieval."
+    },
+    {
+      "question": "What is the primary key in a database?",
+      "answer": "A primary key is a unique identifier for a record (row) in a table. It ensures that each row in a table can be uniquely identified and serves as a reference point for establishing relationships between tables."
+    },
+    {
+      "question": "What is a foreign key in a database?",
+      "answer": "A foreign key is a column or a set of columns in a table that refers to the primary key of another table. It establishes a relationship between two tables by enforcing referential integrity and maintaining data consistency."
+    },
+    {
+      "question": "What is normalization in database design?",
+      "answer": "Normalization is the process of organizing data in a database to eliminate redundancy and dependency problems. It involves breaking down tables into smaller, more manageable tables and establishing relationships between them to reduce data duplication."
+    },
+    {
+      "question": "What is an index in a database?",
+      "answer": "An index in a database is a data structure that improves the speed of data retrieval operations. It is created on one or more columns of a table to allow faster searching, sorting, and filtering of data."
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "answer": "SQL (Structured Query Language) databases are based on the relational model and use structured schemas, while NoSQL (Not only SQL) databases are non-relational and provide flexible schemas, allowing for easy scalability and handling of unstructured data."
+    },
+    {
+      "question": "What is the ACID property in DBMS?",
+      "answer": "The ACID property in DBMS stands for Atomicity, Consistency, Isolation, and Durability. It ensures that database transactions are reliable, consistent, and recoverable in the event of failures or errors."
+    },
+    {
+      "question": "What is a stored procedure?",
+      "answer": "A stored procedure is a named collection of SQL statements stored in the database. It is precompiled and stored for future execution, providing a way to encapsulate business logic and improve performance and security."
+    },
+    {
+      "question": "What is database normalization and why is it important?",
+      "answer": "Database normalization is the process of organizing data to minimize redundancy and dependency issues. It improves data consistency, reduces data duplication, enhances data integrity, and simplifies data modification and maintenance."
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    }
+  ]
+}
